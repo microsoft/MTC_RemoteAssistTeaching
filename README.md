@@ -7,7 +7,7 @@ So if we've peaked your interest, we've put together a couple guides and videos 
 
 ## See it in action
 ### Behind the Scenes: setting up HoloLens Remote Assist for broadcast experiences
-[![setting up HoloLens Remote Assist for broadcast experiences](https://img.youtube.com/vi/RvPAwxWfis8/0.jpg)](https://www.youtube.com/embed/RvPAwxWfis8 "Setting up HoloLens Remote Assist for broadcast experiences")
+[![setting up HoloLens Remote Assist for broadcast experiences](https://img.youtube.com/vi/RvPAwxWfis8/0.jpg)](https://youtu.be/PgDWJ7sMgJ0 "Setting up HoloLens Remote Assist for broadcast experiences"){:target="_blank"}
 
 ### Inside the meeting
 TODO: youtube vid
