@@ -15,7 +15,7 @@ So if we've peaked your interest, we've put together a couple guides and videos 
 ## BOM
 - HD Video Capture: https://www.amazon.com/Capture-Broadcast-Streaming-Grabber-Converter/dp/B0779ZJZX3
 - OBS Studio (Open Broadcaster Software, free and open source): https://obsproject.com/
-- Sample scene resources: [download this folder](/obs)
+- Sample scene resources: [download this repo](archive/main.zip), extract the .zip file, and open the *obs* folder
 
 ## Setup
 ![Setup diagram](images/Setup.png)
