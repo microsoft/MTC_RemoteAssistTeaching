@@ -1,5 +1,9 @@
 # Remote Assist Teaching
-TODO: explain what this is all about (or maybe link to Todd's LI article?)
+Imagine leading an engineering class with a hands on view of tooling, material and technologies. Or to walk a set of technicians through a repair in real time with hands on view and 3D annotations. Or leading to an introduction to chemistry and having the ability for the instructor to explore atomic structures hands on in the physical space with the students seeing it directly.
+
+All of this is possible with 100% off the self technology, a pinch of practice, and a dash of imagination.
+
+So if we've peaked your interest, we've put together a couple guides and videos to get you started. Please check them out below!
 
 ## See it in action
 ### Behind the Scenes
@@ -25,7 +29,16 @@ TODO: youtube vid
 6. If you plan to use Holograms or other content like webpages, drawings etc, place those in the space in which you plan to present. (This prestaging and its critical to ensure you have a good experience)
 
 ### Helper/Assistant
-1. The OBS Projection monitor resolution should be set to 1920x1080
+#### DEMOLAP
+1. Set the audio output for `DEMOLAP` to your HD Video Capture device so that OBS can pull in the audio from the Remote Assist meeting (Windows Settings > System > Sound)
+
+![Sound settings](images/DEMOLAP-audio.png)
+
+2. Have reference materials ready to go on `DEMOLAP`
+	- TODO: These are the materials that will help the "presenter" solve their problem or in the case of a teaching scenario re-enforce the content being presented (see the sample videos above) 
+
+#### PRODLAP
+1. The OBS Projection monitor, connected to `PRODLAP`, resolution should be set to 1920x1080
 2. Download the [sample scene resources](/obs)
 3. Install OBS on `PRODLAP`
 	- Import the downloaded [sample Scene Collection](/obs/SceneCollection-Remote_Assist.json)
@@ -33,15 +46,25 @@ TODO: youtube vid
 	
 	![OBS switch scene](images/OBS-switch-scene.png)
 
-	- Update the HD Video Capture Source in the scenes to use your device, and the images to point to your local directory
-4. Have reference materials ready to go on `DEMOLAP`
-	- TODO: - These are the materials that will help the "presenter" solve their problem or in the case of a teaching scenario re-enforce the content being presented (See the sample video) 
+	- Update the sources accordingly:
+
+	![OBS sources](images/OBS-sources.jpg)
+
+	`Helper Audio` - your capture device's audio
+
+	`Audio Input Capture` - `PRODLAP` default audio
+
+	`HD Video Capture` - your capture device
+
+	`Laptop` - SUR20_Laptop... image from *obs* folder
+
+	`Background` - Legendary-HoloLens... image from *obs* folder
 
 ## Demo
 ### Presenter
 1. Start Teams on the `PRODLAP`
-2. Join the meeting on the `PRODLAP` - Do this well in advance of the actual start time of the meeting (15 mins is a good start as it allows you to ensure things are connected and working.)
-3. Begin streaming the HoloLens video to the `PRODLAP` using Miracast.
+2. Join the meeting on the `PRODLAP` - Do this well in advance of the actual start time of the meeting (15 mins is a good start as it allows you to ensure things are connected and working)
+3. Begin streaming the HoloLens video to the `PRODLAP` using Miracast
 4. Share the `PRODLAP` screen in the Teams meeting 
 5. Start the Remote Assist from inside HoloLens calling the "Helper"
 6. Begin your demonstration. 
@@ -59,8 +82,8 @@ You could also create the "Presenter" view using the documentation for setting u
 5. Join the Customer Teams Meeting ON `PRODLAP`
 	- Share [your external monitor] screen in the Teams Meeting
 6. Accept call from Presenter on `DEMOLAP`
-7. TODO: Annotate in Remote Assist on `DEMOLAP`
-8. TODO: Upload file in Remote Assist on `DEMOLAP`
+7. Annotate in Remote Assist on `DEMOLAP` (see sample videos above)
+8. Upload file (that you prepared above) in Remote Assist on `DEMOLAP`
 
 
 # Contributing
