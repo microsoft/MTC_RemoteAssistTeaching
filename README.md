@@ -7,10 +7,10 @@ So if we've peaked your interest, we've put together a couple guides and videos 
 
 ## See it in action
 ### Behind the Scenes: setting up HoloLens Remote Assist for broadcast experiences
-[![setting up HoloLens Remote Assist for broadcast experiences](https://img.youtube.com/vi/RvPAwxWfis8/0.jpg)](https://youtu.be/RvPAwxWfis8 "Setting up HoloLens Remote Assist for broadcast experiences")
+[![setting up HoloLens Remote Assist for broadcast experiences](images/Setting-up-HL-RA.png)](https://youtu.be/RvPAwxWfis8 "Setting up HoloLens Remote Assist for broadcast experiences")
 
 ### Inside the meeting: example of a remote experience enhanced with HoloLens AND Tips
-[![Example of a remote experience enhanced with HoloLens AND Tips](https://img.youtube.com/vi/PgDWJ7sMgJ0/0.jpg)](https://youtu.be/PgDWJ7sMgJ0 "Example of a remote experience enhanced with HoloLens AND Tips")
+[![Example of a remote experience enhanced with HoloLens AND Tips](images/Example.png)](https://youtu.be/PgDWJ7sMgJ0 "Example of a remote experience enhanced with HoloLens AND Tips")
 
 ## BOM
 - HD Video Capture: https://www.amazon.com/Capture-Broadcast-Streaming-Grabber-Converter/dp/B0779ZJZX3
