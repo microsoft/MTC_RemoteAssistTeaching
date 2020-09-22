@@ -6,8 +6,8 @@ All of this is possible with 100% off the self technology, a pinch of practice, 
 So if we've peaked your interest, we've put together a couple guides and videos to get you started. Please check them out below!
 
 ## See it in action
-### Behind the Scenes
-TODO: youtube vid
+### Behind the Scenes: setting up HoloLens Remote Assist for broadcast experiences
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvPAwxWfis8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Inside the meeting
 TODO: youtube vid
